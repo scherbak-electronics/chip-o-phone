@@ -24,7 +24,7 @@ To set up the Sound Chip Playback Device, follow these steps:
 
 1. Clone this repository to your local machine.
 
-```git clone https://github.com/your-username/sound-chip-Playback-device.git```
+```git clone https://github.com/scherbak-electronics/chip-o-phone```
 
 2. Assemble the hardware components according to the provided schematics and PCB layout.
 
