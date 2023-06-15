@@ -1,6 +1,6 @@
 # Sound Chip Playback Device
 
-![Device](schematic1.png)
+![Device](schematic1.gif)
 
 ## Description
 
